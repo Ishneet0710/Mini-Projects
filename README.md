@@ -1,2 +1,2 @@
-##Mini Projects
-Some of my mini projects i have created in the past!
+# Mini Projects
+Some of my mini projects created in the past!
